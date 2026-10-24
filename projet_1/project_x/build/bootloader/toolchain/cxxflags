@@ -1,0 +1,7 @@
+"-specs=/home/elio/Documents/ESP_32/projet_1/project_x/build/bootloader/specs/picolibc.specs"
+-Wno-frame-address
+-mlongcalls
+-fno-builtin-memcpy
+-fno-builtin-memset
+-fno-builtin-bzero
+-fno-rtti

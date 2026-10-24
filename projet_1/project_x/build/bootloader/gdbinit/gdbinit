@@ -1,0 +1,2 @@
+source /home/elio/Documents/ESP_32/projet_1/project_x/build/bootloader/gdbinit/symbols
+source /home/elio/Documents/ESP_32/projet_1/project_x/build/bootloader/gdbinit/connect

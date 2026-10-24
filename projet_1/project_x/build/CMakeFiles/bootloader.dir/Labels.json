@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/elio/Documents/ESP_32/projet_1/project_x/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "/home/elio/Documents/ESP_32/projet_1/project_x/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "/home/elio/Documents/ESP_32/projet_1/project_x/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "/home/elio/Documents/ESP_32/projet_1/project_x/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		},
+		{
+			"file" : "/home/elio/Documents/ESP_32/projet_1/project_x/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "/home/elio/Documents/ESP_32/projet_1/project_x/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "/home/elio/Documents/ESP_32/projet_1/project_x/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "/home/elio/Documents/ESP_32/projet_1/project_x/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "/home/elio/Documents/ESP_32/projet_1/project_x/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "/home/elio/Documents/ESP_32/projet_1/project_x/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}
